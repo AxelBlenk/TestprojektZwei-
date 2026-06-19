@@ -1,6 +1,6 @@
 @echo off
 if "%1"=="hallo" (
-    echo Hello World
+    echo Hello WorldV2
 ) else (
     echo Bitte "hallo" eingeben
 )
